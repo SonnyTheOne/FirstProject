@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1616315244 source:d:\wangyibo\all of work\add.c
+	"head.h"
+
+1616315769 d:\wangyibo\all of work\head.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1616309116 source:d:\wangyibo\all of work\crear1.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\all of work\creat.c
+	"head.h"
+
+1616310427 source:d:\wangyibo\all of work\fuction.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\all of work\login.c
+	"head.h"
+
+1616315900 source:d:\wangyibo\all of work\main.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\all of work\reback.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\all of work\registers.c
+	"head.h"
+
+1616423874 source:d:\wangyibo\all of work\search.c
+	"head.h"
+
+1616309138 source:d:\wangyibo\all of work\update.c
+	"head.h"
+
+1616315244 source:d:\wangyibo\assignment！！c\all of work\add.c
+	"head.h"
+
+1616315769 d:\wangyibo\assignment！！c\all of work\head.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1616309116 source:d:\wangyibo\assignment！！c\all of work\crear1.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\assignment！！c\all of work\creat.c
+	"head.h"
+
+1616310427 source:d:\wangyibo\assignment！！c\all of work\fuction.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\assignment！！c\all of work\login.c
+	"head.h"
+
+1616315900 source:d:\wangyibo\assignment！！c\all of work\main.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\assignment！！c\all of work\reback.c
+	"head.h"
+
+1616309116 source:d:\wangyibo\assignment！！c\all of work\registers.c
+	"head.h"
+
+1616424636 source:d:\wangyibo\assignment！！c\all of work\search.c
+	"head.h"
+
+1616309138 source:d:\wangyibo\assignment！！c\all of work\update.c
+	"head.h"
+
+1617348695 source:d:\codeblocks\all of work\add.c
+	"head.h"
+
+1617346200 d:\codeblocks\all of work\head.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1617348695 source:d:\codeblocks\all of work\creat.c
+	"head.h"
+
+1617348695 source:d:\codeblocks\all of work\fuction.c
+	"head.h"
+
+1617349710 source:d:\codeblocks\all of work\login.c
+	"head.h"
+
+1616815734 source:d:\codeblocks\all of work\main.c
+	"head.h"
+
+1617349764 source:d:\codeblocks\all of work\reback.c
+	"head.h"
+
+1617349710 source:d:\codeblocks\all of work\registers.c
+	"head.h"
+
+1617348695 source:d:\codeblocks\all of work\crear1.c
+	"head.h"
+
+1617348143 source:d:\codeblocks\all of work\search.c
+	"head.h"
+
+1616806480 source:d:\codeblocks\all of work\update.c
+	"head.h"
+
